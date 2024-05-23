@@ -6,6 +6,7 @@ defineOptions({
 
 <template>
   <div>
-    <img h-full w-full src="../assets/bg.png" alt="">
+    <img h-full w-full src="../assets/bg.webp" alt="">
+    <div class="email">可以上架</div>
   </div>
 </template>
