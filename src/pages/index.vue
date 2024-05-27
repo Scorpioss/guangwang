@@ -8,7 +8,7 @@ defineOptions({
   <div>
     <img h-full w-full src="../assets/bg.webp" alt="" />
     <div class="email" absolute bottom-10 w-full flex justify-center>
-      <div rd-2 p-2 p-x-5 text-6 color-white class="FunnyHub">
+      <div rd-2 p-2 p-x-5 text-6 color-white class="Funny">
         madyunkeltz639@gmail.com
       </div>
     </div>
@@ -16,7 +16,7 @@ defineOptions({
 </template>
 
 <style scoped>
-.FunnyHub{
+.Funny{
   background-color: #000;
 }
 </style>
